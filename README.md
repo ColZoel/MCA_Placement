@@ -1,4 +1,4 @@
-# MCA_Placement
+# MCA Placement
 This is a completed project submitted for Econ 484 and recieving a perfect score utilizing various ML techniques to determine likelihood of landing a job at one of the top 3 consultancy firms. With two exceptions, all methods are performed using the Sklearn machine learning SDK, whose userfriendliness comes at the tradeoff of performance seen in other SDKs as TensorFlow.
 
 Data is self reported from 2009-2021 membership of the BYU Management Consulting Association (MCA) detailing whether a student recieved a job offer from 1 of the top 3 consulting firms (outcome of interest) and various input features including GPA, ACT, Gender, firm location, and several binary variables: whether student has a business major (target variable), double major, minor, or an internship prior to offer. 
